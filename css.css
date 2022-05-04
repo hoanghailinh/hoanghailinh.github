@@ -37,7 +37,7 @@ body {
   }
   .back-to-top i {
 	font-size: 24px;
-	color: #fff;
+	color: rgb(223, 39, 39);
 	line-height: 0;
   }
   .back-to-top:hover {
@@ -162,6 +162,16 @@ body {
 	top: 0;
 	left: 100%;
 	visibility: visible;
+  }
+  #activities .p {
+	  background-color: #f3eaee;
+	  text-align: left;  
+  }
+  #column {
+
+  }
+  }
+
   }
   @media (max-width: 1366px) {
 	.navbar .dropdown .dropdown ul {
